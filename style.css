@@ -50,3 +50,20 @@ body {
     font-size: 200%;
     color: red;
 }
+
+.contactmebutton {
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    padding: 15px;
+}
+
+ul {
+    text-decoration: none;
+}
+
+.contactmeheading {
+    font-size: 20px;
+    font-weight: bold;
+    margin: 20px 0px;
+}
